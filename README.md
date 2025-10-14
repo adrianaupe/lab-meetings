@@ -11,9 +11,9 @@
 | 2025-10-10 | Adriana          | Candidacy!     |        |
 | 2025-10-17 | Gaelle           | Predictions    |        |
 | 2025-10-24 | Maia             |                |        |
-| 2025-10-31 | Jose             | GWR            |        |
+| 2025-10-31 | Jose/Adriana     | GWR/ASTMH      |astmh presentation will be just 7 min|
 | 2025-11-07 | Marcela?         |                |        |
-| 2025-11-14 | Adriana          | Candidacy      |        |
+| 2025-11-14 | Adriana          | Candidacy      | Adriana will be presenting virtually|
 | 2025-11-21 | _open_           |                |        |
 | 2025-11-28 | nope             | Holiday         |        |
 | 2025-12-05 | _open_           |                |        |
